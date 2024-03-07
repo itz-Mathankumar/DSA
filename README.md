@@ -5,5 +5,6 @@ Data structures and algorithms implemented in C++.
 ## Data Structures
 
 - [x] Dynamic Array
+- [X] Doubly Linked List
 
 ## Algorithms
