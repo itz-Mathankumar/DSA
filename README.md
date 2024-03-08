@@ -8,3 +8,4 @@ Data structures and algorithms implemented in C++.
 - [X] Doubly Linked List
 
 ## Algorithms
+- [x] HasPairWithTargetSum
