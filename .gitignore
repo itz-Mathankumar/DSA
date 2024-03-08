@@ -2,4 +2,9 @@
 *
 !*.*
 !*/
+
+# Ignore vscode files.
 .vscode/
+
+# Ignore exe files.
+*.exe
